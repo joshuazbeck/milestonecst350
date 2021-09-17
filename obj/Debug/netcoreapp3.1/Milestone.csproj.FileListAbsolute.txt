@@ -1,111 +1,283 @@
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\Milestone.exe
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\Milestone.deps.json
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\Milestone.runtimeconfig.json
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\Milestone.runtimeconfig.dev.json
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\Milestone.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\Milestone.pdb
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\Milestone.Views.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\Milestone.Views.pdb
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\obj\Debug\netcoreapp3.1\Milestone.csproj.AssemblyReference.cache
-C:\Users\Dell User\source\repos\Milestone\Milestone\obj\Debug\netcoreapp3.1\Milestone.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Dell User\source\repos\Milestone\Milestone\obj\Debug\netcoreapp3.1\Milestone.AssemblyInfoInputs.cache
-C:\Users\Dell User\source\repos\Milestone\Milestone\obj\Debug\netcoreapp3.1\Milestone.AssemblyInfo.cs
-C:\Users\Dell User\source\repos\Milestone\Milestone\obj\Debug\netcoreapp3.1\Milestone.csproj.CoreCompileInputs.cache
-C:\Users\Dell User\source\repos\Milestone\Milestone\obj\Debug\netcoreapp3.1\Milestone.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Dell User\source\repos\Milestone\Milestone\obj\Debug\netcoreapp3.1\Milestone.RazorAssemblyInfo.cache
-C:\Users\Dell User\source\repos\Milestone\Milestone\obj\Debug\netcoreapp3.1\Milestone.RazorAssemblyInfo.cs
-C:\Users\Dell User\source\repos\Milestone\Milestone\obj\Debug\netcoreapp3.1\staticwebassets\Milestone.StaticWebAssets.Manifest.cache
-C:\Users\Dell User\source\repos\Milestone\Milestone\obj\Debug\netcoreapp3.1\staticwebassets\Milestone.StaticWebAssets.xml
-C:\Users\Dell User\source\repos\Milestone\Milestone\obj\Debug\netcoreapp3.1\scopedcss\bundle\Milestone.styles.css
-C:\Users\Dell User\source\repos\Milestone\Milestone\obj\Debug\netcoreapp3.1\Milestone.TagHelpers.input.cache
-C:\Users\Dell User\source\repos\Milestone\Milestone\obj\Debug\netcoreapp3.1\Milestone.TagHelpers.output.cache
-C:\Users\Dell User\source\repos\Milestone\Milestone\obj\Debug\netcoreapp3.1\Milestone.RazorCoreGenerate.cache
-C:\Users\Dell User\source\repos\Milestone\Milestone\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\Dell User\source\repos\Milestone\Milestone\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\Dell User\source\repos\Milestone\Milestone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
-C:\Users\Dell User\source\repos\Milestone\Milestone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\Dell User\source\repos\Milestone\Milestone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\Dell User\source\repos\Milestone\Milestone\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-C:\Users\Dell User\source\repos\Milestone\Milestone\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
-C:\Users\Dell User\source\repos\Milestone\Milestone\obj\Debug\netcoreapp3.1\Milestone.RazorTargetAssemblyInfo.cache
-C:\Users\Dell User\source\repos\Milestone\Milestone\obj\Debug\netcoreapp3.1\Milestone.RazorTargetAssemblyInfo.cs
-C:\Users\Dell User\source\repos\Milestone\Milestone\obj\Debug\netcoreapp3.1\Milestone.Views.pdb
-C:\Users\Dell User\source\repos\Milestone\Milestone\obj\Debug\netcoreapp3.1\Milestone.csproj.CopyComplete
-C:\Users\Dell User\source\repos\Milestone\Milestone\obj\Debug\netcoreapp3.1\Milestone.dll
-C:\Users\Dell User\source\repos\Milestone\Milestone\obj\Debug\netcoreapp3.1\Milestone.pdb
-C:\Users\Dell User\source\repos\Milestone\Milestone\obj\Debug\netcoreapp3.1\Milestone.genruntimeconfig.cache
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/Milestone.exe
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/Milestone.deps.json
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/Milestone.runtimeconfig.json
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/Milestone.runtimeconfig.dev.json
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/Milestone.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/Milestone.pdb
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/Milestone.Views.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/Milestone.Views.pdb
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/obj/Debug/netcoreapp3.1/Milestone.csproj.AssemblyReference.cache
+C:/Users/Dell User/source/repos/Milestone/Milestone/obj/Debug/netcoreapp3.1/Milestone.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Dell User/source/repos/Milestone/Milestone/obj/Debug/netcoreapp3.1/Milestone.AssemblyInfoInputs.cache
+C:/Users/Dell User/source/repos/Milestone/Milestone/obj/Debug/netcoreapp3.1/Milestone.AssemblyInfo.cs
+C:/Users/Dell User/source/repos/Milestone/Milestone/obj/Debug/netcoreapp3.1/Milestone.csproj.CoreCompileInputs.cache
+C:/Users/Dell User/source/repos/Milestone/Milestone/obj/Debug/netcoreapp3.1/Milestone.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Dell User/source/repos/Milestone/Milestone/obj/Debug/netcoreapp3.1/Milestone.RazorAssemblyInfo.cache
+C:/Users/Dell User/source/repos/Milestone/Milestone/obj/Debug/netcoreapp3.1/Milestone.RazorAssemblyInfo.cs
+C:/Users/Dell User/source/repos/Milestone/Milestone/obj/Debug/netcoreapp3.1/staticwebassets/Milestone.StaticWebAssets.Manifest.cache
+C:/Users/Dell User/source/repos/Milestone/Milestone/obj/Debug/netcoreapp3.1/staticwebassets/Milestone.StaticWebAssets.xml
+C:/Users/Dell User/source/repos/Milestone/Milestone/obj/Debug/netcoreapp3.1/scopedcss/bundle/Milestone.styles.css
+C:/Users/Dell User/source/repos/Milestone/Milestone/obj/Debug/netcoreapp3.1/Milestone.TagHelpers.input.cache
+C:/Users/Dell User/source/repos/Milestone/Milestone/obj/Debug/netcoreapp3.1/Milestone.TagHelpers.output.cache
+C:/Users/Dell User/source/repos/Milestone/Milestone/obj/Debug/netcoreapp3.1/Milestone.RazorCoreGenerate.cache
+C:/Users/Dell User/source/repos/Milestone/Milestone/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/Dell User/source/repos/Milestone/Milestone/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+C:/Users/Dell User/source/repos/Milestone/Milestone/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/Dell User/source/repos/Milestone/Milestone/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/Dell User/source/repos/Milestone/Milestone/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/Dell User/source/repos/Milestone/Milestone/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/Dell User/source/repos/Milestone/Milestone/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/Dell User/source/repos/Milestone/Milestone/obj/Debug/netcoreapp3.1/Milestone.RazorTargetAssemblyInfo.cache
+C:/Users/Dell User/source/repos/Milestone/Milestone/obj/Debug/netcoreapp3.1/Milestone.RazorTargetAssemblyInfo.cs
+C:/Users/Dell User/source/repos/Milestone/Milestone/obj/Debug/netcoreapp3.1/Milestone.Views.pdb
+C:/Users/Dell User/source/repos/Milestone/Milestone/obj/Debug/netcoreapp3.1/Milestone.csproj.CopyComplete
+C:/Users/Dell User/source/repos/Milestone/Milestone/obj/Debug/netcoreapp3.1/Milestone.dll
+C:/Users/Dell User/source/repos/Milestone/Milestone/obj/Debug/netcoreapp3.1/Milestone.pdb
+C:/Users/Dell User/source/repos/Milestone/Milestone/obj/Debug/netcoreapp3.1/Milestone.genruntimeconfig.cache
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Milestone.deps.json
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Milestone.runtimeconfig.json
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Milestone.runtimeconfig.dev.json
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Milestone.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Milestone.pdb
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Milestone.Views.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Milestone.Views.pdb
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/joeygallotta/Projects/milestonecst350/obj/Debug/netcoreapp3.1/Milestone.csproj.AssemblyReference.cache
+/Users/joeygallotta/Projects/milestonecst350/obj/Debug/netcoreapp3.1/Milestone.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joeygallotta/Projects/milestonecst350/obj/Debug/netcoreapp3.1/Milestone.AssemblyInfoInputs.cache
+/Users/joeygallotta/Projects/milestonecst350/obj/Debug/netcoreapp3.1/Milestone.AssemblyInfo.cs
+/Users/joeygallotta/Projects/milestonecst350/obj/Debug/netcoreapp3.1/Milestone.csproj.CoreCompileInputs.cache
+/Users/joeygallotta/Projects/milestonecst350/obj/Debug/netcoreapp3.1/Milestone.MvcApplicationPartsAssemblyInfo.cache
+/Users/joeygallotta/Projects/milestonecst350/obj/Debug/netcoreapp3.1/Milestone.RazorAssemblyInfo.cache
+/Users/joeygallotta/Projects/milestonecst350/obj/Debug/netcoreapp3.1/Milestone.RazorAssemblyInfo.cs
+/Users/joeygallotta/Projects/milestonecst350/obj/Debug/netcoreapp3.1/staticwebassets/Milestone.StaticWebAssets.Manifest.cache
+/Users/joeygallotta/Projects/milestonecst350/obj/Debug/netcoreapp3.1/staticwebassets/Milestone.StaticWebAssets.xml
+/Users/joeygallotta/Projects/milestonecst350/obj/Debug/netcoreapp3.1/scopedcss/bundle/Milestone.styles.css
+/Users/joeygallotta/Projects/milestonecst350/obj/Debug/netcoreapp3.1/Milestone.TagHelpers.input.cache
+/Users/joeygallotta/Projects/milestonecst350/obj/Debug/netcoreapp3.1/Milestone.TagHelpers.output.cache
+/Users/joeygallotta/Projects/milestonecst350/obj/Debug/netcoreapp3.1/Milestone.RazorCoreGenerate.cache
+/Users/joeygallotta/Projects/milestonecst350/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/joeygallotta/Projects/milestonecst350/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/joeygallotta/Projects/milestonecst350/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/joeygallotta/Projects/milestonecst350/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/joeygallotta/Projects/milestonecst350/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/joeygallotta/Projects/milestonecst350/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/joeygallotta/Projects/milestonecst350/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/joeygallotta/Projects/milestonecst350/obj/Debug/netcoreapp3.1/Milestone.RazorTargetAssemblyInfo.cache
+/Users/joeygallotta/Projects/milestonecst350/obj/Debug/netcoreapp3.1/Milestone.RazorTargetAssemblyInfo.cs
+/Users/joeygallotta/Projects/milestonecst350/obj/Debug/netcoreapp3.1/Milestone.Views.pdb
+/Users/joeygallotta/Projects/milestonecst350/obj/Debug/netcoreapp3.1/Milestone.csproj.CopyComplete
+/Users/joeygallotta/Projects/milestonecst350/obj/Debug/netcoreapp3.1/Milestone.dll
+/Users/joeygallotta/Projects/milestonecst350/obj/Debug/netcoreapp3.1/Milestone.pdb
+/Users/joeygallotta/Projects/milestonecst350/obj/Debug/netcoreapp3.1/Milestone.genruntimeconfig.cache
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/joeygallotta/Projects/milestonecst350/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/joeygallotta/Projects/milestonecst350/obj/Debug/netcoreapp3.1/Razor/Pages/_ValidationScriptsPartial.cshtml.g.cs
+/Users/joeygallotta/Projects/milestonecst350/obj/Debug/netcoreapp3.1/Razor/Views/Registration/Index.cshtml.g.cs
