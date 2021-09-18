@@ -11,5 +11,12 @@ namespace Milestone.Service
      */
     public class SecurityService
     {
+        SecurityDA secure = new SecurityDA();
+
+        public bool userFound(UserModel user)
+        {
+            secure.findUser(user);
+        }
+
     }
 }
