@@ -8,6 +8,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 
 namespace Milestone
 {
@@ -24,6 +25,9 @@ namespace Milestone
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+
+            services.AddDbContext<Create>(options =>
+                    options.UseSqlite(Configuration.GetConnectionString("Create")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

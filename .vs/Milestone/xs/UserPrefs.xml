@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{F776BDBE-4A74-4BE3-9D08-6B5AD6DC151A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Milestone PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/UserController.cs">
+    <Files>
+      <File FileName="Views/Shared/Index.cshtml" Line="30" Column="33" />
+      <File FileName="Controllers/RegistrationController.cs" Line="15" Column="10" />
+      <File FileName="Controllers/UserController.cs" Line="8" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Milestone" expanded="True">
+            <Node name="Milestone" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="UserController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
