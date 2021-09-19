@@ -456,3 +456,4 @@ C:/Users/Dell User/Documents/GitHub/milestonecst350/obj/Debug/netcoreapp3.1/Mile
 C:/Users/Dell User/Documents/GitHub/milestonecst350/obj/Debug/netcoreapp3.1/Milestone.csproj.CopyComplete
 C:/Users/Dell User/Documents/GitHub/milestonecst350/obj/Debug/netcoreapp3.1/Milestone.genruntimeconfig.cache
 /Users/joeygallotta/Projects/milestonecst350/obj/Debug/netcoreapp3.1/Razor/Views/User/Index.cshtml.g.cs
+/Users/joeygallotta/Projects/milestonecst350/obj/Debug/netcoreapp3.1/Razor/Views/Login/Index.cshtml.g.cs
