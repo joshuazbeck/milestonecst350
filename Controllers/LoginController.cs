@@ -8,14 +8,14 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Milestone.Controllers
 {
-    public class RegistrationController : Controller
+    public class LoginController : Controller
     {
         // GET: /<controller>/
         public IActionResult Index()
         {
             return View();
         }
-        public IActionResult ProcessRegustration()
+        public IActionResult Login()
         {
             return View();
         }

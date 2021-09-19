@@ -17,6 +17,7 @@
   <ItemGroup>
     <Folder Include="Views\User\" />
     <Folder Include="Views\Registration\" />
+    <Folder Include="Views\Login\" />
   </ItemGroup>
 
   <ItemGroup>
@@ -24,5 +25,6 @@
     <None Remove="Microsoft.EntityFrameworkCore.Tools" />
     <None Remove="Microsoft.EntityFrameworkCore.Sqlite" />
     <None Remove="Views\Registration\" />
+    <None Remove="Views\Login\" />
   </ItemGroup>
 </Project>
