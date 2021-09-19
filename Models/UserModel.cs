@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -11,11 +13,6 @@ namespace Milestone.Models
      */
     public class UserModel
     {
-        public int Id { get; set; }
-      
-        public string ConfirmPassword { get; set; }
-        //First Name, Last Name, Sex, Age, State, Email Address, Username, and Password
-
         [Required]
         [DisplayName("First Name:")]
         public string FirstName { get; set; }

@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using System.Data.SqlClient;
+using Microsoft.Data.SqlClient;
+using Milestone.Models;
 
 namespace Milestone.Service
 {
@@ -11,7 +12,7 @@ namespace Milestone.Service
 
         string connectString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=MilestoneDatabase;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
 
-        public bool findUser(User user)
+        public bool findUser(UserModel user)
         {
             bool found = false;
             string query = "Select * from [dbo].[Users] where Username = @username and Password = @password";
@@ -20,8 +21,8 @@ namespace Milestone.Service
             {
                 SqlCommand command = new SqlCommand(query, connect);
 
-                command.Parameters.Add("@USERNAME", System.Data.SqlDbType.Varchar, 50).Value = user.UserName;
-                command.Parameters.Add("@PASSWORD", System.Data.SqlDbType.Varchar, 50).Value = user.Password;
+                command.Parameters.Add("@USERNAME", System.Data.SqlDbType.VarChar, 50).Value = user.Username;
+                command.Parameters.Add("@PASSWORD", System.Data.SqlDbType.VarChar, 50).Value = user.Password;
 
                 try
                 {

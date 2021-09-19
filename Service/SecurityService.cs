@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Milestone.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -15,7 +16,7 @@ namespace Milestone.Service
 
         public bool userFound(UserModel user)
         {
-            secure.findUser(user);
+            return secure.findUser(user);
         }
 
     }

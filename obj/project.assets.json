@@ -8821,24 +8821,26 @@
     ]
   },
   "packageFolders": {
-    "/Users/joeygallotta/.nuget/packages/": {}
+    "C:\\Users\\Dell User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/joeygallotta/Projects/milestonecst350/Milestone.csproj",
+      "projectUniqueName": "C:\\Users\\Dell User\\Documents\\GitHub\\milestonecst350\\Milestone.csproj",
       "projectName": "Milestone",
-      "projectPath": "/Users/joeygallotta/Projects/milestonecst350/Milestone.csproj",
-      "packagesPath": "/Users/joeygallotta/.nuget/packages/",
-      "outputPath": "/Users/joeygallotta/Projects/milestonecst350/obj/",
+      "projectPath": "C:\\Users\\Dell User\\Documents\\GitHub\\milestonecst350\\Milestone.csproj",
+      "packagesPath": "C:\\Users\\Dell User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dell User\\Documents\\GitHub\\milestonecst350\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/joeygallotta/.config/NuGet/NuGet.Config"
+        "C:\\Users\\Dell User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -8894,7 +8896,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

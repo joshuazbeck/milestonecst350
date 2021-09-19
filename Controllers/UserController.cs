@@ -16,5 +16,9 @@ namespace Milestone.Controllers
         {
             return View();
         }
+        public IActionResult ShowAppointmentDetails()
+        {
+            return View();
+        }
     }
 }
