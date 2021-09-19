@@ -15,6 +15,9 @@ namespace Milestone.Controllers
         {
             return View();
         }
-        
+        public IActionResult ProcessRegustration()
+        {
+            return View();
+        }
     }
 }
