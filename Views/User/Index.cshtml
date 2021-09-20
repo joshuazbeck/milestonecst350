@@ -1,26 +1,26 @@
-﻿@model  Milestone.Models.UserModel
+﻿@model Milestone.Models.UserModel
+@*
+    @{
+        var title = "";
+        var genre = "";
+        var year = "";
 
-@{
-    var title = "";
-    var genre = "";
-    var year = "";
+        if(IsPost){
+            FirstName = Request.Form["FirstName"];
+            LastName = Request.Form["LastName"];
+            Sex = Request.Form["Sex"];
+            Age = Request.Form["Age"];
+            State = Request.Form["State"];
+            EmailAddress = Request.Form["EmailAddress"];
+            Username = Request.Form["Username"];
+            Password = Request.Form["Password"];
 
-    if(IsPost){
-        FirstName = Request.Form["FirstName"];
-        LastName = Request.Form["LastName"];
-        Sex = Request.Form["Sex"];
-        Age = Request.Form["Age"];
-        State = Request.Form["State"];
-        EmailAddress = Request.Form["EmailAddress"];
-        Username = Request.Form["Username"];
-        Password = Request.Form["Password"];
-
-        var db = Database.Open("MilestoneDatabase");
-        var insertCommand = "INSERT INTO Users (FirstName, LastName, Sex, Age, State, EmailAddress, Username, Password) VALUES(@0, @1, @2, @3, @4, @5, @6, @7)";
-        db.Execute(insertCommand, FirstName, LastName, Sex, Age, State, EmailAddress, Username, Password);
+            var db = Database.Open("MilestoneDatabase");
+            var insertCommand = "INSERT INTO Users (FirstName, LastName, Sex, Age, State, EmailAddress, Username, Password) VALUES(@0, @1, @2, @3, @4, @5, @6, @7)";
+            db.Execute(insertCommand, FirstName, LastName, Sex, Age, State, EmailAddress, Username, Password);
+        }
     }
-}
-
+*@
 <h4>Welcome to Create User</h4>
 <hr />
 <div class="row">
