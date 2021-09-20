@@ -8821,24 +8821,30 @@
     ]
   },
   "packageFolders": {
-    "/Users/joeygallotta/.nuget/packages/": {}
+    "C:\\Users\\ROG\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/joeygallotta/Projects/milestonecst350/Milestone.csproj",
+      "projectUniqueName": "D:\\0D School\\CST-350\\MyFork\\Milestone.csproj",
       "projectName": "Milestone",
-      "projectPath": "/Users/joeygallotta/Projects/milestonecst350/Milestone.csproj",
-      "packagesPath": "/Users/joeygallotta/.nuget/packages/",
-      "outputPath": "/Users/joeygallotta/Projects/milestonecst350/obj/",
+      "projectPath": "D:\\0D School\\CST-350\\MyFork\\Milestone.csproj",
+      "packagesPath": "C:\\Users\\ROG\\.nuget\\packages\\",
+      "outputPath": "D:\\0D School\\CST-350\\MyFork\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "/Users/joeygallotta/.config/NuGet/NuGet.Config"
+        "C:\\Users\\ROG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -8894,7 +8900,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

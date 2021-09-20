@@ -16,8 +16,6 @@
 
   <ItemGroup>
     <Folder Include="Views\User\" />
-    <Folder Include="Views\Registration\" />
-    <Folder Include="Views\Login\" />
   </ItemGroup>
 
   <ItemGroup>

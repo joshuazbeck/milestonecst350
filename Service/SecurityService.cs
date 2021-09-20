@@ -14,9 +14,14 @@ namespace Milestone.Service
     {
         SecurityDA secure = new SecurityDA();
 
-        public bool userFound(UserModel user)
+        public bool IsValid(UserModel user)
         {
             return secure.findUser(user);
+        }
+
+        public bool CreateUser(UserModel user)
+        {
+            return secure.createUser(user);
         }
 
     }

@@ -43,5 +43,44 @@ namespace Milestone.Service
 
             return found;
         }
+
+        public bool createUser(UserModel user)
+        {
+            bool found = false;
+            string query = "INSERT INTO dbo.Users (First_Name, Last_Name, Sex, Age, State, Email_Address, Username, Password) VALUES (@firstname, @lastname, @sex, @age, @state, @email, @username, @password)";
+
+            using (SqlConnection connect = new SqlConnection(connectString))
+            {
+                SqlCommand command = new SqlCommand(query, connect);
+
+                
+                command.Parameters.Add("@FIRSTNAME", System.Data.SqlDbType.VarChar, 50).Value = user.FirstName; 
+                command.Parameters.Add("@LASTNAME", System.Data.SqlDbType.VarChar, 50).Value = user.LastName;
+                command.Parameters.Add("@SEX", System.Data.SqlDbType.VarChar, 1).Value = user.Sex;
+                command.Parameters.Add("@AGE", System.Data.SqlDbType.Int).Value = user.Age;
+                command.Parameters.Add("@STATE", System.Data.SqlDbType.VarChar, 50).Value = user.State;
+                command.Parameters.Add("@EMAIL", System.Data.SqlDbType.VarChar, 50).Value = user.EmailAddress;
+                command.Parameters.Add("@USERNAME", System.Data.SqlDbType.VarChar, 50).Value = user.Username;
+                command.Parameters.Add("@PASSWORD", System.Data.SqlDbType.VarChar, 50).Value = user.Password;
+
+                try
+                {
+                    connect.Open();
+                    int read = command.ExecuteNonQuery();
+
+                    if (read > 0)
+                    {
+                        found = true;
+                    }
+                }
+                catch (Exception ex)
+
+                {
+                    Console.WriteLine(ex.Message);
+                }
+            }
+
+            return found;
+        }
     }
 }

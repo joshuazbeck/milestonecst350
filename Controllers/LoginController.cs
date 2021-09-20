@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using Milestone.Models;
+using Milestone.Service;
 
 // For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -15,9 +17,18 @@ namespace Milestone.Controllers
         {
             return View();
         }
-        public IActionResult Login()
+        public IActionResult ProcessLogin(UserModel userModel)
         {
-            return View();
+            SecurityService securityService = new SecurityService();
+
+            if (securityService.IsValid(userModel))
+            {
+                return View("LoginSuccess", userModel);
+            }
+            else
+            {
+                return View("LoginFailure", userModel);
+            }
         }
     }
 }
