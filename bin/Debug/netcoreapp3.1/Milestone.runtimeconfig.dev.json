@@ -1,9 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\ROG\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\ROG\\.nuget\\packages",
-      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      "C:\\Users\\Dell User\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Dell User\\.nuget\\packages"
     ]
   }
 }
