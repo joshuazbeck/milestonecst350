@@ -8821,23 +8821,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ROG\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\tanta\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\0D School\\CST-350\\MyFork\\Milestone.csproj",
+      "projectUniqueName": "E:\\GitHub\\CST350\\milestonecst350\\Milestone.csproj",
       "projectName": "Milestone",
-      "projectPath": "D:\\0D School\\CST-350\\MyFork\\Milestone.csproj",
-      "packagesPath": "C:\\Users\\ROG\\.nuget\\packages\\",
-      "outputPath": "D:\\0D School\\CST-350\\MyFork\\obj\\",
+      "projectPath": "E:\\GitHub\\CST350\\milestonecst350\\Milestone.csproj",
+      "packagesPath": "C:\\Users\\tanta\\.nuget\\packages\\",
+      "outputPath": "E:\\GitHub\\CST350\\milestonecst350\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ROG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tanta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8900,7 +8901,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
