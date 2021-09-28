@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GitHub\\CST350\\milestonecst350\\Milestone.csproj": {}
+    "C:\\Users\\TrapBox\\Documents\\GitHub\\milestonecst350_mason\\Milestone.csproj": {}
   },
   "projects": {
-    "E:\\GitHub\\CST350\\milestonecst350\\Milestone.csproj": {
+    "C:\\Users\\TrapBox\\Documents\\GitHub\\milestonecst350_mason\\Milestone.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitHub\\CST350\\milestonecst350\\Milestone.csproj",
+        "projectUniqueName": "C:\\Users\\TrapBox\\Documents\\GitHub\\milestonecst350_mason\\Milestone.csproj",
         "projectName": "Milestone",
-        "projectPath": "E:\\GitHub\\CST350\\milestonecst350\\Milestone.csproj",
-        "packagesPath": "C:\\Users\\tanta\\.nuget\\packages\\",
-        "outputPath": "E:\\GitHub\\CST350\\milestonecst350\\obj\\",
+        "projectPath": "C:\\Users\\TrapBox\\Documents\\GitHub\\milestonecst350_mason\\Milestone.csproj",
+        "packagesPath": "C:\\Users\\TrapBox\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TrapBox\\Documents\\GitHub\\milestonecst350_mason\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\tanta\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\TrapBox\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -81,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

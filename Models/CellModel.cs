@@ -10,15 +10,24 @@ namespace Milestone.Models
         public int Id { get; set; }
         public int State { get; set; }
 
+        public int Row { get; set; }
+
+        public int Col { get; set; }
+        public int Neighbors { get; set; }
+
+        public bool Visited { get; set; }
+
+        public bool Flagged { get; set; }
         public CellModel ()
         {
-
         }
 
-        public CellModel (int id, int state)
+        public CellModel (int id, int state, int row, int col)
         {
             Id = id;
             State = state;
+            Row = row;
+            Col = col;
         }
     }
 }
