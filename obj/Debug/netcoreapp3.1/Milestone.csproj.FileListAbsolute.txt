@@ -995,3 +995,4 @@ C:\Users\TrapBox\Documents\GitHub\milestonecst350_mason\obj\Debug\netcoreapp3.1\
 C:\Users\TrapBox\Documents\GitHub\milestonecst350_mason\obj\Debug\netcoreapp3.1\Milestone.Views.pdb
 C:\Users\TrapBox\Documents\GitHub\milestonecst350_mason\obj\Debug\netcoreapp3.1\Milestone.csproj.CopyComplete
 C:\Users\TrapBox\Documents\GitHub\milestonecst350_mason\obj\Debug\netcoreapp3.1\Milestone.genruntimeconfig.cache
+C:\Users\TrapBox\Documents\GitHub\milestonecst350_mason\obj\Debug\netcoreapp3.1\Razor\Views\MinesweeperBoard\Index.cshtml.g.cs

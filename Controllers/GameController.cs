@@ -45,6 +45,7 @@ namespace Milestone.Controllers
             if (cells[buttonNumber].State > 0)
             {
                 gameOver = true;
+                cells[buttonNumber].Visited = true;
             }
             else
             {
