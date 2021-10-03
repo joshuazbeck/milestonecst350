@@ -42,30 +42,30 @@
                 <div class="line-break"></div>
             }
 
-<button class="game-button" type="submit" value="@i" name="mine" *asp-controller="Game" asp-action="HandleLeftClick">
-    @if (!Model.ElementAt(i).Visited)
-    {
-        <img class="game-button-image" src="~/Images/field.png" />
-    }
-    else
-    {
-        if (Model[i].State > 0)
-        {
-            <script>alert("Game Over!!!");</script>
-            <img class="game-button-image" src="~/Images/bomb.png" />
-        }
-        else
-        {
-            <img class="game-button-image" src="~/Images/hole.png" />
-        }
-    }
+            <button class="game-button" type="submit" value="@i" name="mine" *asp-controller="Game" asp-action="HandleLeftClick">
+                @if (!Model.ElementAt(i).Visited)
+                {
+                    <img class="game-button-image" src="~/Images/field.png" />
+                }
+                else
+                {
+                    if (Model[i].State > 0)
+                    {
+                        <script>alert("Game Over!!!");</script>
+                        <img class="game-button-image" src="~/Images/bomb.png" />
+                    }
+                    else
+                    {
+                        <img class="game-button-image" src="~/Images/hole.png" />
+                    }
+                }
 
-    <div class="button-label">
-        @Model.ElementAt(i).State,
-        @Model.ElementAt(i).Neighbors,
-        @Model.ElementAt(i).Visited
-    </div>
-</button>
+                <div class="button-label">
+                    @Model.ElementAt(i).State,
+                    @Model.ElementAt(i).Neighbors,
+                    @Model.ElementAt(i).Visited
+                </div>
+            </button>
         }
     }
 </div>
