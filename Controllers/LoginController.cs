@@ -20,7 +20,7 @@ namespace Milestone.Controllers
         public IActionResult ProcessLogin(UserModel userModel)
         {
             SecurityService securityService = new SecurityService();
-
+            
             if (securityService.IsValid(userModel))
             {
                 return View("LoginSuccess", userModel);

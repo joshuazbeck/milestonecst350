@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\Dell User\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Dell User\\.nuget\\packages"
+      "C:\\Users\\TrapBox\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\TrapBox\\.nuget\\packages"
     ]
   }
 }
