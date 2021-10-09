@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TrapBox\\Documents\\GitHub\\milestonecst350_mason\\Milestone.csproj": {}
+    "C:\\Users\\Dell User\\Documents\\GitHub\\milestonecst350\\Milestone.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TrapBox\\Documents\\GitHub\\milestonecst350_mason\\Milestone.csproj": {
+    "C:\\Users\\Dell User\\Documents\\GitHub\\milestonecst350\\Milestone.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TrapBox\\Documents\\GitHub\\milestonecst350_mason\\Milestone.csproj",
+        "projectUniqueName": "C:\\Users\\Dell User\\Documents\\GitHub\\milestonecst350\\Milestone.csproj",
         "projectName": "Milestone",
-        "projectPath": "C:\\Users\\TrapBox\\Documents\\GitHub\\milestonecst350_mason\\Milestone.csproj",
-        "packagesPath": "C:\\Users\\TrapBox\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TrapBox\\Documents\\GitHub\\milestonecst350_mason\\obj\\",
+        "projectPath": "C:\\Users\\Dell User\\Documents\\GitHub\\milestonecst350\\Milestone.csproj",
+        "packagesPath": "C:\\Users\\Dell User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell User\\Documents\\GitHub\\milestonecst350\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\TrapBox\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dell User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

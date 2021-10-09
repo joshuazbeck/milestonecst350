@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -13,4 +13,6 @@ using Milestone.Models;
         }
 
         public DbSet<Milestone.Models.UserModel> UserModel { get; set; }
+
+        public DbSet<Milestone.Models.CellModel> CellModel { get; set; }
     }

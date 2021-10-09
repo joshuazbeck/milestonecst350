@@ -25,10 +25,7 @@
         transform: translate(-50%, -50%);
     }
 
-    .button-zone {
-        display: flex;
-        flex-wrap: wrap;
-    }
+   
 
     .line-break {
         flex-basis: 100%;
@@ -45,6 +42,8 @@
         background-repeat: no-repeat;
         background-size: contain;
         resize: both;
+        display: flex;
+        flex-wrap: wrap;
     }
 
     .centered {
@@ -60,42 +59,44 @@
     string[] gamePieces = { "", "", "" };
 }
 
-<div class="cell-zone">
-    @using (@Html.BeginForm("HandleLeftClick", "GameController"))
-    {
-
-        for (int i = 0; i < Model.Count(); i++)
-        {
-            if (i % Math.Sqrt(Model.Count) == 0)
+<p>Current Time: @DateTime.Now</p>
+<form>
+    <div class="cell-zone">
+   
+        @for (int i = 0; i < Model.Count(); i++)
             {
-                <div class="line-break"></div>
-            }
+                @if (i % Math.Sqrt(Model.Count) == 0)
+                {
+                    <div class="line-break"></div>
+                }
+            <div class="oneButton", id=@i>
+                <button class="game-button" type="submit" value="@i" name="tileNumber">
+                    @if (!Model.ElementAt(i).Visited)
+                    {
+                        <img class="game-button-image" src="~/Images/field.png" />
+                    }
+                    else
+                    {
+                        if (Model[i].State > 0)
+                        {
+                            <!--script>alert("Game Over!!!");</!--script-->
+                            <img class="game-button-image" src="~/Images/bomb3.png" />
+                        }
+                        else
+                        {
+                            <img class="game-button-image" src="~/Images/hole3.png" />
+                            <div class="centered">@Model[i].Neighbors</div>
+                        }
+                    }
 
-<button class="game-button" type="submit" value="@i" name="mine" *asp-controller="Game" asp-action="HandleLeftClick">
-    @if (!Model.ElementAt(i).Visited)
-    {
-        //<img class="game-button-image" src="~/Images/field.png" />
-    }
-    else
-    {
-        if (Model[i].State > 0)
-        {
-            <!--script>alert("Game Over!!!");</!--script-->
-            //<img class="game-button-image" src="~/Images/bomb3.png" />
-        }
-        else
-        {
-            //<img class="game-button-image" src="~/Images/hole3.png" />
-            <div class="centered">@Model[i].Neighbors</div>
-        }
-    }
-
-    <!--<div class="button-label">
-        @Model.ElementAt(i).State,
-        @Model.ElementAt(i).Neighbors,
-        @Model.ElementAt(i).Visited
-    </div>-->
-</button>
-        }
-    }
-</div>
+                    <!--<div class="button-label">
+                        @Model.ElementAt(i).State,
+                        @Model.ElementAt(i).Neighbors,
+                        @Model.ElementAt(i).Visited
+                    </div>-->
+                </button>
+            </div>
+         }
+    
+    </div>
+</form>

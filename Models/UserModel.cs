@@ -14,6 +14,8 @@ namespace Milestone.Models
     public class UserModel
     {
         [Required]
+        public string ID { get; set; }
+        [Required]
         [DisplayName("First Name:")]
         public string FirstName { get; set; }
 

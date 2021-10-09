@@ -7,7 +7,8 @@ namespace Milestone.Models
 {
     public class CellModel
     {
-        public int Id { get; set; }
+        
+        public int ID { get; set; }
         public int State { get; set; }
 
         public int Row { get; set; }
@@ -24,7 +25,7 @@ namespace Milestone.Models
 
         public CellModel (int id, int state, int row, int col)
         {
-            Id = id;
+            ID = id;
             State = state;
             Row = row;
             Col = col;

@@ -17,6 +17,37 @@ namespace Milestone.Controllers
         static bool gameOver = false;
         public IActionResult Index()
         {
+            setUpBoard();
+
+            return View("Index", cells);
+        }
+        public IActionResult ShowOneCell(int tileNumber)
+        {
+
+            if (cells[tileNumber].Flagged == false)
+            {
+                if (cells[tileNumber].State > 0)
+                {
+                    gameOver = true;
+                    cells[tileNumber].Visited = true;
+                }
+                else
+                {
+                    FloodFill(cells[tileNumber].Row, cells[tileNumber].Col);
+                }
+                cells.ElementAt(tileNumber).Visited = true;
+            }
+            return PartialView(cells.ElementAt(tileNumber));
+        }
+        public IActionResult RightClickOneCell(int tileNumber)
+        {
+
+            //Toggle
+            cells.ElementAt(tileNumber).Flagged = cells.ElementAt(tileNumber).Flagged ? false : true;
+            return PartialView("showOneCell", cells.ElementAt(tileNumber));
+        }
+        private void setUpBoard()
+        {
             if (!gameStarted)
             {
                 int x = GRID_SIZE;
@@ -52,25 +83,6 @@ namespace Milestone.Controllers
 
                 gameStarted = true;
             }
-
-            return View("Index", cells);
-        }
-
-        public IActionResult HandleLeftClick(string mine)
-        {
-            int buttonNumber = Int32.Parse(mine);
-
-            if (cells[buttonNumber].State > 0)
-            {
-                gameOver = true;
-                cells[buttonNumber].Visited = true;
-            }
-            else
-            {
-                FloodFill(cells[buttonNumber].Row, cells[buttonNumber].Col);
-            }
-
-            return View("Index", cells);
         }
 
         private int calculateLiveNeighbors(CellModel cell)
