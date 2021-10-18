@@ -8,6 +8,10 @@ namespace Milestone.Models
 {
     public class BoardModel
     {
+        private string v;
+        private object id;
+        private object date1;
+
         [Key]
         public int Id { get; set; }
         public string boardCells { get; set; }
@@ -19,9 +23,20 @@ namespace Milestone.Models
             this.UID = UID;
             this.date = date;
         }
-        public BoardModel()
+        public BoardModel(string v, string iD)
         {
 
+        }
+
+        public BoardModel(string v, object id, object date1)
+        {
+            this.v = v;
+            this.id = id;
+            this.date1 = date1;
+        }
+
+        public BoardModel()
+        {
         }
     }
 }
