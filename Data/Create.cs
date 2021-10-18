@@ -15,4 +15,6 @@ using Milestone.Models;
         public DbSet<Milestone.Models.UserModel> UserModel { get; set; }
 
         public DbSet<Milestone.Models.CellModel> CellModel { get; set; }
+
+        public DbSet<Milestone.Models.BoardModel> BoardModel { get; set; }
     }

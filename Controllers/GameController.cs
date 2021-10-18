@@ -3,6 +3,7 @@ using Milestone.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text.Json;
 using System.Threading.Tasks;
 
 namespace Milestone.Controllers
@@ -134,6 +135,14 @@ namespace Milestone.Controllers
                     FloodFill(row + xmove[i], col + ymove[i]);
                 }
             }
+        }
+        public IActionResult SaveGame()
+        {
+            //MARK: ADD WAY TO ACCESS THE USER ID; RIGHT NOW HARD CODED TO 1
+            //MARK: ADD WAY TO ACCESS THE DATE AND TIME, RIGHT NOW HARD CODED TO TODAY
+            var board = new BoardModel(JsonSerializer.Serialize<List<CellModel>>(cells), 1, "10/17");
+            (new GameBoardAPI()).AddGame(JsonSerializer.Serialize<BoardModel>(board));
+            return RedirectToAction("Index", "SavedGames ");
         }
     }
 }

@@ -1,0 +1,30 @@
+﻿@model Milestone.Models.BoardModel
+
+<div>
+    <h4>BoardModel</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.boardCells)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.boardCells)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.UID)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.UID)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.date)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.date)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

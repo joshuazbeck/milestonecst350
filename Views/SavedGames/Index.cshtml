@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Milestone.Models.BoardModel>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.boardCells)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.date)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.boardCells)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.date)
+            </td>
+            <td>
+                <a asp-action="GameWith" asp-route-id="@item.Id">View</a> |
+                <a asp-action="DeleteGame" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

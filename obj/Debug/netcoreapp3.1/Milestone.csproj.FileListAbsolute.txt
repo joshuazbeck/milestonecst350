@@ -1004,3 +1004,5 @@ C:\Users\Dell User\Documents\GitHub\milestonecst350\obj\Debug\netcoreapp3.1\Mile
 C:\Users\Dell User\Documents\GitHub\milestonecst350\obj\Debug\netcoreapp3.1\Milestone.genruntimeconfig.cache
 C:\Users\Dell User\Documents\GitHub\milestonecst350\obj\Debug\netcoreapp3.1\Milestone.csproj.AssemblyReference.cache
 C:\Users\Dell User\Documents\GitHub\milestonecst350\obj\Debug\netcoreapp3.1\Razor\Views\Game\ShowOneCell.cshtml.g.cs
+C:\Users\Dell User\Documents\GitHub\milestonecst350\obj\Debug\netcoreapp3.1\Razor\Views\SavedGames\Index.cshtml.g.cs
+C:\Users\Dell User\Documents\GitHub\milestonecst350\obj\Debug\netcoreapp3.1\Razor\Views\SavedGames\ShowGame.cshtml.g.cs
